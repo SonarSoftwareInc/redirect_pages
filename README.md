@@ -6,10 +6,10 @@ These pages are responsive and designed to work well on a mobile device or deskt
 
 ## Examples
 
-![alt text](https://github.com/SonarSoftware/redirect_pages/screenshots/delinquent.png "Delinquent")
+![Delinquent](https://github.com/SonarSoftware/redirect_pages/raw/master/screenshots/delinquent.png "Delinquent")
 
-![alt text](https://github.com/SonarSoftware/redirect_pages/screenshots/disconnection.png "Disconnection")
+![Disconnection](https://github.com/SonarSoftware/redirect_pages/raw/master/screenshots/disconnection.png "Disconnection")
 
-![alt text](https://github.com/SonarSoftware/redirect_pages/screenshots/unauthorized.png "Unauthorized")
+![Unauthorized](https://github.com/SonarSoftware/redirect_pages/raw/master/screenshots/unauthorized.png "Unauthorized")
 
-![alt text](https://github.com/SonarSoftware/redirect_pages/screenshots/warning.png "Warning")
+![Warning](https://github.com/SonarSoftware/redirect_pages/raw/master/screenshots/warning.png "Warning")
